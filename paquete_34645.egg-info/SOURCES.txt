@@ -1,0 +1,9 @@
+setup.py
+paquete/__init__.py
+paquete/funciones_matematicas.py
+paquete/modulo1.py
+paquete/moduloClases.py
+paquete_34645.egg-info/PKG-INFO
+paquete_34645.egg-info/SOURCES.txt
+paquete_34645.egg-info/dependency_links.txt
+paquete_34645.egg-info/top_level.txt
